@@ -1,0 +1,1 @@
+this is 1st line in line in linux.txt
